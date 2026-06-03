@@ -38,8 +38,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-##Jetbra
-.idea
-
-## Java
-target
+/.idea/
+/target/
